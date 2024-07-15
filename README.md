@@ -6,9 +6,9 @@ Support Vector Machines (SVM) are a class of statistical learning methods based 
 
 __Advantages of SVM:__
 
-•	Very effective in high dimensions.
-•	Effective in cases where the dimension of the space is larger than the number of training samples.
-•	Require less memory as they do not use all the training samples, but only a part (the support vectors).
+•	Very effective in high dimensions.  
+•	Effective in cases where the dimension of the space is larger than the number of training samples.  
+•	Require less memory as they do not use all the training samples, but only a part (the support vectors).  
 
 __Disadvantages:__
 
