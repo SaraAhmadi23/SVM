@@ -12,7 +12,7 @@ __Advantages of SVM:__
 
 __Disadvantages:__
 
-•	Performance can degrade if the number of attributes is much larger than the number of samples.
+•	Performance can degrade if the number of attributes is much larger than the number of samples.  
 •	They do not provide probability estimates as these are class discrimination methods.
 
 __Dataset__
@@ -24,6 +24,7 @@ __Project Structure__
 __1. Loading Data__
 
 The project begins by loading the Iris dataset and selecting only the first two attributes (sepal length and sepal width) for simplicity. The dataset is then split into training and test sets.
+
 __2. Training a Linear SVM__
 
 A linear SVM model is trained on the training data. The regularization parameter C is used to control the trade-off between achieving a low error on the training data and minimizing the norm of the weights.
@@ -42,10 +43,10 @@ __Exploration Tasks__
    
 __Useful References__
 
-•	NumPy Documentation
-•	SciPy Documentation
-•	Matplotlib Documentation
-•	scikit-learn Documentation
-•	Python Programming Language
+•	NumPy Documentation  
+•	SciPy Documentation  
+•	Matplotlib Documentation  
+•	scikit-learn Documentation  
+•	Python Programming Language  
 ![image](https://github.com/user-attachments/assets/f47ddf53-ea1c-43cd-9654-d449111dce20)
 
