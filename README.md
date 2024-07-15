@@ -41,12 +41,4 @@ __Exploration Tasks__
 4.	Digits Data Classification: Use the Digits dataset to build a Linear SVC classifier and evaluate its performance. If training time is extensive, consider using a smaller subset of the data (e.g., 10000 samples). Identify the value of C that yields the best generalization results.
 5.	Gaussian Kernel Application: Redo the classification of the Iris dataset using a Gaussian kernel. Test the effects of the kernel scaling parameter (gamma) and the regularization parameter C. Compare the results with those of the linear SVM.
    
-__Useful References__
-
-•	NumPy Documentation  
-•	SciPy Documentation  
-•	Matplotlib Documentation  
-•	scikit-learn Documentation  
-•	Python Programming Language  
-![image](https://github.com/user-attachments/assets/f47ddf53-ea1c-43cd-9654-d449111dce20)
 
